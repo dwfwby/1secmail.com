@@ -1,0 +1,11 @@
+{
+  "name": "1secmail",
+  "version": "1.0.0",
+  "description": "API on node.js for website 1secmail.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "dwfwby",
+  "license": "ISC"
+}
